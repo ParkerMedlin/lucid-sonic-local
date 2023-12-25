@@ -1,0 +1,1 @@
+docker run -d -p 5000:5000 --gpus=all r8.im/pollinations/lucid-sonic-dreams-xl@sha256:14334f96bf01f6f96d74f00d07dc90f8fc64e7d568ee1231deb7a8b556a9dd87
