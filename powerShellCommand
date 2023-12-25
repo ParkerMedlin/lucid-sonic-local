@@ -1,0 +1,18 @@
+$body = @{
+    input = @{
+        fps = 20
+        style = "bolete"
+        audio_file = "https://www.dropbox.com/scl/fi/rpe01lm07v71t5vboygko/input.mp3?rlkey=ljly39bqr3hhfs8em3yz27im3&dl=1"
+        model_type = "imagenet (XL)"
+        truncation = 50
+        pulse_react = 60
+        motion_react = 60
+        pulse_react_to = "percussive"
+        motion_react_to = "harmonic"
+        motion_randomness = 50
+    }
+}
+
+$json = $body | ConvertTo-Json
+
+Invoke-RestMethod -Uri http://localhost:5000/predictions -Method Post -Body $json -ContentType "application/json"
