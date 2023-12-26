@@ -1,6 +1,81 @@
 # This list is every possible valid style value for the input json.
 ## Highly recommend using cursor.so and just asking chatGPT to parse the list for things you want to try, because it is exhaustive.
- 
+
+Of particular interest:
+### MUSHROOM
+- mushroom
+- agaric
+- gyromitra
+- stinkhorn, carrion fungus
+- earthstar
+- hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
+- bolete
+
+### TECHNOLOGY
+- modem
+- hard disc, hard disk, fixed disk
+- computer keyboard, keypad
+- laptop, laptop computer
+- desktop computer
+- notebook, notebook computer
+- iPod
+- mobile phone, cellphone, cell
+- television, television system
+- radio, wireless
+- remote control, remote
+- printer
+- photocopier
+- projector
+- camera
+- microphone
+- digital clock
+- digital watch
+- analog clock
+- CD player
+- cassette player
+- joystick
+- video game, computer game
+- web site, website, internet site, site
+- traffic light, traffic signal, stoplight
+
+### MUSIC
+- accordion, piano accordion, squeeze box
+- acoustic guitar
+- analog clock
+- banjo
+- bassoon
+- CD player
+- cello, violoncello
+- drum, membranophone, tympan
+- drumstick
+- electric guitar
+- grand piano, grand
+- harmonica, mouth organ, harp, mouth harp
+- harp
+- iPod
+- maraca
+- marimba, xylophone
+- oboe, hautboy, hautbois
+- organ, pipe organ
+- piano, pianoforte, forte-piano
+- sax, saxophone
+- trombone
+- trumpet, trump
+- violin, fiddle
+
+### ANIMALS
+- mud turtle
+
+### SEXI HEEHEE
+- brassiere, bra, bandeau
+- nipple
+- miniskirt, mini
+
+
+
+
+
+### FULL LIST
 tench, Tinca tinca
 goldfish, Carassius auratus
 great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
