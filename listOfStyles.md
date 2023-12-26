@@ -1,3 +1,6 @@
+# This list is every possible valid style value for the input json.
+## Highly recommend using cursor.so and just asking chatGPT to parse the list for things you want to try, because it is exhaustive.
+ 
 tench, Tinca tinca
 goldfish, Carassius auratus
 great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
